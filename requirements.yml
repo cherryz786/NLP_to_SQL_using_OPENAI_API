@@ -1,0 +1,4 @@
+dependencies:
+  - openai
+  - pandas
+  - sqlalchemy
