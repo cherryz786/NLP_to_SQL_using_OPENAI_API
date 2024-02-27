@@ -3,7 +3,7 @@
 
 ## Description
 
-This project demonstrates how to convert natural language queries into SQL queries using OpenAI's Davince-002 model. It allows users to interactively ask questions about a dataset and receive SQL queries as responses.
+This project demonstrates how to convert natural language queries into SQL queries using OpenAI's Davinci-002 model. It allows users to interactively ask questions about a dataset and receive SQL queries as responses.
 
 This project is aimed at data analysts, software developers, educators, business users, and anyone in need of querying databases. By converting natural language queries into SQL queries, it streamlines data analysis, facilitates application development, supports SQL education, empowers non-technical users to access data, and accelerates prototyping processes.
 
